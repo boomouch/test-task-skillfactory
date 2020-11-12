@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+body {
+	max-width: 800px;
+}
+.wrap {
+	padding-left: 15px;
+}
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	color: #4d4e4f;
+}
+h4 {
+	font-family: 'Open Sans', sans-serif;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15;
+}
+.intro {
+	background-color: #ebf0f5;
+	padding: 10px;
+}
+b {
+	font-weight: 800;
+}
+.form {
+	padding-left: 70px;
+}
+.alg {
+	max-width: 760px;
+	padding: 15px;
+	border: 3px solid #05b033;
+}
+.formula {
+	padding-left: 70px;
+}
+.abzatz {
+	padding-top: 20px;
+}
